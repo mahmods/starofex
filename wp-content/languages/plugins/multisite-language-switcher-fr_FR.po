@@ -1,0 +1,202 @@
+# Translation of Plugins - Multisite Language Switcher - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Multisite Language Switcher - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-22 22:41:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Multisite Language Switcher - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://lloc.de/"
+msgstr "http://lloc.de/"
+
+#. Author of the plugin/theme
+msgid "Dennis Ploetner"
+msgstr "Dennis Ploetner"
+
+#. Description of the plugin/theme
+msgid "A simple but powerful plugin that will help you to manage the relations of your contents in a multilingual multisite-installation."
+msgstr "Une extension simple mais puissante qui vous aidera à gérer les relations de vos contenus dans une installation multi-sites multilingue."
+
+#. Plugin URI of the plugin/theme
+msgid "http://msls.co/"
+msgstr "http://msls.co/"
+
+#: includes/MslsWidget.php:83
+msgid "Title"
+msgstr "Titre"
+
+#: includes/MslsWidget.php:54
+msgid "No available translations found"
+msgstr "Aucune traduction disponible trouvée"
+
+#: includes/MslsAdmin.php:227
+msgid "Text/HTML before the list"
+msgstr "Texte/HTML avant la liste"
+
+#: includes/MslsAdmin.php:231
+msgid "Text/HTML after the list"
+msgstr "Texte/HTML après la liste"
+
+#: includes/MslsAdmin.php:271
+msgid "Custom URL for flag-images"
+msgstr "URL personnalisée pour les images de drapeaux"
+
+#: includes/MslsAdminIcon.php:147
+msgid "Edit the translation in the %s-blog"
+msgstr "Modifier la traduction dans le %s-blog"
+
+#: includes/MslsLink.php:44
+msgid "Flag and description"
+msgstr "Drapeau et description"
+
+#: includes/MslsLinkTextImage.php:25
+msgid "Description and flag"
+msgstr "Description et drapeau"
+
+#: includes/MslsOptions.php:341
+msgid "American English"
+msgstr "Anglais américain"
+
+#: includes/MslsMetaBox.php:213 includes/MslsMetaBox.php:292
+msgid "You should define at least another blog in a different language in order to have some benefit from this plugin!"
+msgstr "Vous devez définir au moins un autre blog dans une langue différente afin de pouvoir utiliser cette extension !"
+
+#: includes/MslsLinkTextOnly.php:25
+msgid "Description only"
+msgstr "Description uniquement"
+
+#: includes/MslsLinkImageOnly.php:25
+msgid "Flag only"
+msgstr "Drapeau uniquement"
+
+#: includes/MslsCustomFilter.php:52
+msgid "Not translated in the %s-blog"
+msgstr "Non traduit dans le %s-blog"
+
+#: includes/MslsCustomFilter.php:46
+msgid "Show all blogs"
+msgstr "Afficher tous les blogs"
+
+#: includes/MslsAdminIcon.php:154
+msgid "Create a new translation in the %s-blog"
+msgstr "Créez une nouvelle traduction dans le %s-blog"
+
+#: includes/MslsAdmin.php:279
+msgid "Exclude this blog from output"
+msgstr "Exclure ce blog de sortie"
+
+#: includes/MslsAdmin.php:275
+msgid "Reference user"
+msgstr "Utilisateur de référence"
+
+#: includes/MslsAdmin.php:267
+msgid "Activate experimental autocomplete inputs"
+msgstr "Activer la saisie semi-automatique des entrées expérimentale"
+
+#: includes/MslsAdmin.php:247
+msgid "Hint priority"
+msgstr "Priorité d’indication"
+
+#: includes/MslsAdmin.php:243
+msgid "Add hint for available translations"
+msgstr "Ajouter un indicateur pour les traductions"
+
+#: includes/MslsAdmin.php:239
+msgid "Text/HTML after each item"
+msgstr "Texte/HTML après chaque élément"
+
+#: includes/MslsAdmin.php:235
+msgid "Text/HTML before each item"
+msgstr "Texte/HTML avant chaque élément"
+
+#: includes/MslsAdmin.php:223
+msgid "Description"
+msgstr "Description"
+
+#: includes/MslsAdmin.php:211
+msgid "Sort output by description"
+msgstr "Trier les résultats par description"
+
+#: includes/MslsAdmin.php:215
+msgid "Display link to the current language"
+msgstr "Afficher un lien vers la langue en cours"
+
+#: includes/MslsAdmin.php:219
+msgid "Show only links with a translation"
+msgstr "Afficher uniquement les liens ayant une traduction"
+
+#: includes/MslsAdmin.php:156
+msgid "Advanced Settings"
+msgstr "Réglages avancés"
+
+#: includes/MslsAdmin.php:207
+msgid "Display"
+msgstr "Afficher"
+
+#: includes/MslsAdmin.php:187
+msgid "Admin Language"
+msgstr "Langue d'admin"
+
+#: includes/MslsAdmin.php:183
+msgid "Blog Language"
+msgstr "Langue du blog"
+
+#: includes/MslsAdmin.php:152
+msgid "Main Settings"
+msgstr "Réglages principaux"
+
+#: includes/MslsAdmin.php:148
+msgid "Language Settings"
+msgstr "Réglages de langue"
+
+#: includes/MslsAdmin.php:109 includes/MslsMetaBox.php:207
+#: includes/MslsMetaBox.php:267
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/MslsAdmin.php:109
+msgid "Configure"
+msgstr "Configurer"
+
+#. #-#-#-#-#  tmp-multisite-language-switcher.pot (Multisite Language Switcher
+#. 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/MslsAdmin.php:34 includes/MslsMetaBox.php:97
+#: includes/MslsPostTag.php:150 includes/MslsPostTagClassic.php:116
+#: includes/MslsWidget.php:20
+msgid "Multisite Language Switcher"
+msgstr "Multisite Language Switcher"
+
+#: includes/MslsAdmin.php:99
+msgid "Multisite Language Switcher Options"
+msgstr "Options de Multisite Language Switcher"
+
+#: includes/MslsAdmin.php:101
+msgid "To achieve maximum flexibility, you have to configure each blog separately."
+msgstr "Pour un maximum de flexibilité, vous devez configurer chaque blog séparément."
+
+#: includes/MslsAdmin.php:84
+msgid "Multisite Language Switcher is almost ready. You must <a href=\"%s\">complete the configuration process</a>."
+msgstr "Multisite Language Switcher est presque prêt. Vous devez <a href=\"%s\">compléter le processus de configuration</a>."
+
+#: includes/MslsAdmin.php:78
+msgid "There are no language files installed. You can <a href=\"%s\">manually install some language files</a> or you could use a <a href=\"%s\">plugin</a> to download these files automatically."
+msgstr "Il n’y a aucun fichier de langue installé. Vous pouvez <a href=\"%s\">installer manuellement des fichiers de langue</a>, ou vous pourriez utiliser une <a href=\"%s\">extension</a> pour télécharger ces fichiers automatiquement."
+
+#: MultisiteLanguageSwitcher.php:285
+msgid "The Multisite Language Switcher needs the activation of the multisite-feature for working properly. Please read <a onclick=\"window.open(this.href); return false;\" href=\"http://codex.wordpress.org/Create_A_Network\">this post</a> if you don't know the meaning."
+msgstr "Multisite Language Switcher nécessite l’activation de la fonctionnalité multisite pour travailler correctement. Veuillez lire <a onclick=\"window.open(this.href); return false;\" href=\"http://codex.wordpress.org/Create_A_Network\">cet article</a>, si vous n’en connaissez pas la signification."
+
+#: MultisiteLanguageSwitcher.php:177
+msgid "%s and %s"
+msgstr "%s et %s"
+
+#: MultisiteLanguageSwitcher.php:160
+msgid "This post is also available in %s."
+msgstr "Ce article est également disponible en %s."
